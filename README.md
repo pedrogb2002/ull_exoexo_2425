@@ -1,13 +1,13 @@
-# Exoplanetas y Exobiologia 2023-2024</br>
+# Exoplanetas y Exobiologia 2024-2025
 
 **[Dr. Hannu Parviainen](mailto:hannu@iac.es)**</br>
 **[Universidad de la Laguna](https://www.ull.es)**</br>
-**Last modified: 28.4.2024**
+**Last modified: 21.4.2025**
 
 ## Introduction
 
 This git repository contains the lab exercises to the ULL Exoplanetas y Exobiologia course
-2023-2024. The exercises will teach you the basics of how to 
+2024-2025. The exercises will teach you the basics of how to 
 
 - estimate the orbital period of an exoplanet together with its minimum mass from a radial 
   velocity signal,
@@ -34,14 +34,14 @@ and [2.1](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), a
 First, you'll need to create a GitHub account and fork the lab exercise repository into your own account. Next, 
 you'll need to clone the lab exercise repository from your account in GitHub to your own computer
 
-    git clone https://github.com/YOUR_GITHUB_USERNAME/ull_exoexo_2324.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME/ull_exoexo_2425.git
 
 ## Exercises
 
 The exercises have been organised into two Jupyter notebooks. You'll need to start a Jupyter notebook
 server from the directory you cloned the repo into
 
-    cd ull_exoexo_2324
+    cd ull_exoexo_2425
     jupyter notebook
 
 After which you can open, edit, and run the notebooks.
